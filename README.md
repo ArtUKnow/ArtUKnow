@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1_(1).gif)](https://github.com/ArtUKnow)
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1_.gif)](https://github.com/ArtUKnow)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
