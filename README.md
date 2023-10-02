@@ -1,11 +1,11 @@
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1_.gif)](https://github.com/ArtUKnow)
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/2_.gif)](https://lemon-corporation.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/1 (2).gif)](https://github.com/ArtUKnow)
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/3_.gif)](https://lemon-corporation.com)
 
 [🎶] *Programming languages that I am currently studying:*
 
