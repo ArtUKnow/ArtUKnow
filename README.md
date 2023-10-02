@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/3_.gif)](https://lemon-corporation.com)
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/3_.gif)](https://lemon-corporation.com)
 
 [🎶] *Programming languages that I am currently studying:*
 
