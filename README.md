@@ -1,16 +1,39 @@
-### Hi there 👋
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.gif)](https://github.com/ArtUKnow)
 
-<!--
-**ArtUKnow/ArtUKnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/df661b213ee05573007418bcd5cca532.gif)](https://github.com/ArtUKnow)
+
+[🎶] *Programming languages that I am currently studying:*
+
+
+
+- 🌱 C++ // main lang.
+- ✌️ Python 
+- 👌 Go lang
+- 🎉 Rust
+- 🤞 HTML/CSS
+- 😄 JS # 🥶
+
+
+
+[🕶️] *Programming languages that I will study:*
+
+
+
+
+
+- 👏 TS
+- 🌿 Ruby
+- 🧋 Kotlin
+- 🔍 C#
+- 🤞 R lang
+- 🥳 Dart
+- 😄 Swift # 😡
+
+
+
+[![Header2](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/223e6792880429.5e569ff84ebef.gif)]((https://github.com/ArtUKnow))
