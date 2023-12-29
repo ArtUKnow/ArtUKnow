@@ -36,4 +36,4 @@
 
 
 
-[![Header2](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/1 (5).gif)]((https://github.com/ArtUKnow))
+[![Header2](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/1 (5).gif)](https://github.com/ArtUKnow)
