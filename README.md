@@ -1,6 +1,6 @@
 [![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/2_.gif)](https://lemon-corporation.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
