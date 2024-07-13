@@ -22,4 +22,4 @@
 
 ### 💻 About Me
 
-I am the Founder and CEO of [Lemon Corporation](https://lemon-corporation.com), a company dedicated to innovative solutions in web development and artificial intelligence. I am a passionate programmer with an interest in various programming languages and constantly learning new technologies to improve my skills.
+I am the Founder and CEO of [Lemon Corporation](https://lemon-corporation.com). I am a passionate programmer with an interest in various programming languages and constantly learning new technologies to improve my skills.
