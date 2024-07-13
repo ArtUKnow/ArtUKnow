@@ -9,31 +9,11 @@
 
 [🎶] *Programming languages that I am currently studying:*
 
-
-
-- 🌱 C++ // main lang.
-- ✌️ Python 
+- ✌️ Python // main lang.
+- 🌱 C++ 
 - 👌 Go lang
-- 🎉 Rust
-- 🤞 HTML/CSS
-- 😄 JS # 🥶
-
-
-
-[🕶️] *Programming languages that I will study:*
-
-
-
-
-
-- 👏 TS
-- 🌿 Ruby
-- 🧋 Kotlin
-- 🔍 C#
-- 🤞 R lang
 - 🥳 Dart
+- 🎉 Rust
+- 😄 JS # 🥶
 - 😄 Swift # 😡
 
-
-
-[![Header2](https://github.com/ArtUKnow/ArtUKnow/blob/main/assets/1 (5).gif)](https://github.com/ArtUKnow)
