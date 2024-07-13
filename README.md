@@ -23,14 +23,3 @@
 ### 💻 About Me
 
 I am the Founder and CEO of [Lemon Corporation](https://lemon-corporation.com), a company dedicated to innovative solutions in web development and artificial intelligence. I am a passionate programmer with an interest in various programming languages and constantly learning new technologies to improve my skills.
-
-### 🚀 Projects
-
-- **[Project Name 1](https://github.com/ArtUKnow/ProjectName1)** - Brief description of what this project does and why it is useful.
-- **[Project Name 2](https://github.com/ArtUKnow/ProjectName2)** - Brief description of what this project does and why it is useful.
-
-### 📫 Contact Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
