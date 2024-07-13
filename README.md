@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/2_.gif)](https://lemon-corporation.com)
+[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/undefined_image%20-%202024-06-19T193611.446.png)](https://lemon-corporation.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtUKnow&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
