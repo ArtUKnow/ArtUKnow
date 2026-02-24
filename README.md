@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1.png)](https://lemon-corporation.com)
+[![Неизвестность — Взгляд в будущее](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1.png)](https://lemon-corporation.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Founder+%26+CEO+%40+Lemon+Corporation+%F0%9F%8D%8B;Building+the+Future+%E2%80%94+line+by+line+%F0%9F%9A%80)](https://lemon-corporation.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%26+CEO+%40+Lemon+Corporation+%F0%9F%8D%8B;%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5+%E2%80%94+%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0+%D0%B7%D0%B0+%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%BE%D0%B9+%F0%9F%9A%80)](https://lemon-corporation.com)
 
 <br/>
 
@@ -14,17 +14,17 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  &nbsp; Welcome &nbsp;
+  &nbsp; Добро пожаловать &nbsp;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
-<h3>Founder & CEO of <a href="https://lemon-corporation.com">Lemon Corporation</a> 🍋</h3>
+<h3>Основатель и CEO компании <a href="https://lemon-corporation.com">Lemon Corporation</a> 🍋</h3>
 
 <br/>
 
 <a href="https://lemon-corporation.com"><img src="https://img.shields.io/badge/🍋_Lemon_Corporation-FFD700?style=for-the-badge&logoColor=black" alt="Lemon Corp"/></a>&nbsp;
 <a href="https://github.com/ArtUKnow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ArtUKnow&style=for-the-badge&color=FFD700&label=VISITORS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ArtUKnow&style=for-the-badge&color=FFD700&label=%D0%9F%D0%9E%D0%A1%D0%95%D0%A2%D0%98%D0%A2%D0%95%D0%9B%D0%98" alt="Просмотры профиля"/>
 
 </div>
 
@@ -32,46 +32,46 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; Обо мне
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   🍋  Role:        Founder & CEO                                 ║
-║   🏢  Company:     Lemon Corporation                              ║
-║   🌍  Mission:     Building the Future with Code                  ║
-║   💡  Philosophy:  Innovation through Excellence                  ║
+║   🍋  Роль:        Основатель и CEO                              ║
+║   🏢  Компания:    Lemon Corporation                              ║
+║   🌍  Миссия:      Строить будущее с помощью кода                 ║
+║   💡  Философия:   Инновации через совершенство                   ║
 ║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════���══════╝
 ```
 
 </div>
 
 <br/>
 
-> *"A true leader does not sit on a throne — he builds it with his own hands, line by line, commit by commit."*
+> *«Настоящий лидер не сидит на троне — он строит его своими руками, строка за строкой, коммит за коммитом.»*
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## 📊 &nbsp; GitHub Statistics
+## 📊 &nbsp; Статистика GitHub
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArtUKnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtUKnow&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="Streak Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=ArtUKnow&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact&langs_count=8" alt="Топ языков"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArtUKnow&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Граф активности](https://github-readme-activity-graph.vercel.app/graph?username=ArtUKnow&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -79,39 +79,39 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## ⚔️ &nbsp; Tech Stack
+## ⚔️ &nbsp; Технологии
 
 <div align="center">
 
-### 🗡️ Programming Languages
+### 🗡️ Языки программирования
 
-<img src="https://skillicons.dev/icons?i=python,cpp,go,dart,rust,js,swift&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,go,dart,rust,js,swift&theme=dark" alt="Языки"/>
 
 <br/><br/>
 
-|  | Language | Mastery |
+|  | Язык | Уровень |
 |:---:|:---:|:---:|
-| 🐍 | **Python** | ████████████████████ `Supreme` |
-| ⚡ | **C++** | ██████████████████░░ `Advanced` |
-| 🔵 | **Go** | ████████████████░░░░ `Noble` |
-| 🎯 | **Dart** | ██████████████████░░ `Mighty` |
-| 🦀 | **Rust** | ██████████████░░░░░░ `Impressive` |
-| 🌐 | **JavaScript** | ████████████████░░░░ `Legendary` |
-| 🍎 | **Swift** | ██████████████████░░ `Outstanding` |
-| 🧠 | **TypeScript** | ████████████████░░░░ `Titan` |
-| 🐘 | **PHP** | ██████████████░░░░░░ `Trusted` |
+| 🐍 | **Python** | ████████████████████ `Совершенный` |
+| ⚡ | **C++** | ██████████████████░░ `Авангард` |
+| 🔵 | **Go** | ████████████████░░░░ `Надёжный` |
+| 🎯 | **Dart** | ██████████████████░░ `Мощный` |
+| 🦀 | **Rust** | ██████████████░░░░░░ `Искусный` |
+| 🌐 | **JavaScript** | ████████████████░░░░ `Легендарный` |
+| 🍎 | **Swift** | ██████████████████░░ `Отличный` |
+| 🧠 | **TypeScript** | ████████████████░░░░ `Титан` |
+| 🐘 | **PHP** | ██████████████░░░░░░ `Твёрдый` |
 
 <br/>
 
-### 🛡️ Tools & Frameworks
+### 🛡️ Инструменты и фреймворки
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,docker,kubernetes,git,linux,vscode,figma,firebase&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,docker,kubernetes,git,linux,vscode,figma,firebase&theme=dark" alt="Инструменты"/>
 
 <br/><br/>
 
-### 🏰 Infrastructure & Cloud
+### 🏰 Инфраструктура и облака
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,redis,postgres,mongodb&theme=dark" alt="Cloud"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,redis,postgres,mongodb&theme=dark" alt="Облака"/>
 
 </div>
 
@@ -124,12 +124,12 @@
 <div align="center">
 
 <a href="https://lemon-corporation.com">
-  <img src="https://img.shields.io/badge/🍋_Visit_Lemon_Corporation-FFD700?style=for-the-badge&logoColor=black" alt="Lemon Corporation" height="40"/>
+  <img src="https://img.shields.io/badge/🍋_Посетить_Lemon_Corporation-FFD700?style=for-the-badge&logoColor=black" alt="Lemon Corporation" height="40"/>
 </a>
 
 <br/><br/>
 
-[![Header](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/2.png)](https://lemon-corporation.com)
+[![Скоро — вертолёт будущего](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/2.png)](https://lemon-corporation.com)
 
 <br/>
 
@@ -138,11 +138,11 @@
    ║                                                       ║
    ║              L E M O N   C O R P O R A T I O N        ║
    ║                                                       ║
-   ║     "When life gives you lemons, build an empire."    ║
+   ║   «Когда жизнь даёт тебе лимоны — построй империю.»  ║
    ║                                                       ║
-   ║          The throne is being prepared...  👑           ║
+   ║             Трон готовится...  👑                      ║
    ║                                                       ║
-🍋 ╚═══════════════════════════════════════════���═══════════╝ 🍋
+🍋 ╚═══════════════════════════════════════════════════════╝ 🍋
 ```
 
 </div>
@@ -151,11 +151,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## 🏆 &nbsp; Achievements
+## 🏆 &nbsp; Достижения
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ArtUKnow&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ArtUKnow&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Трофеи"/>
 
 </div>
 
@@ -163,17 +163,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## 📜 &nbsp; Principles
+## 📜 &nbsp; Принципы
 
 <div align="center">
 
-| 🔥 Principle | 📖 Description |
+| 🔥 Принцип | 📖 Описание |
 |:---:|:---|
-| **Passion** | Code is not just work — it is art, every project a masterpiece |
-| **Excellence** | Only the finest code ships — mediocrity is left behind |
-| **Growth** | Those who stop learning, stop leading — constant evolution |
-| **Community** | Open source strengthens all — a kingdom needs its people |
-| **Innovation** | The future belongs to those who build it — relentlessly |
+| **Страсть** | Код — это не просто работа, это искусство, а каждый проект — шедевр |
+| **Совершенство** | Только лучший код выходит в свет — посредственности нет места |
+| **Рост** | Кто перестаёт учиться — перестаёт вести за собой |
+| **Сообщество** | Открытый код делает всех сильнее — империи нужны люди |
+| **Инновации** | Будущее принадлежит тем, кто его строит — без остановки |
 
 </div>
 
@@ -183,27 +183,27 @@
 
 <div align="center">
 
-### 📫 &nbsp; Contact
+### 📫 &nbsp; Связаться
 
 <br/>
 
-<a href="https://lemon-corporation.com"><img src="https://img.shields.io/badge/Website-lemon--corporation.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://lemon-corporation.com"><img src="https://img.shields.io/badge/Сайт-lemon--corporation.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Сайт"/></a>
 
 <br/><br/>
 
 ```
          ✦  .  ·    ✦
       ·    🍋    ·
-    ✦    Every     ✦
-      empire has
-     a beginning.
-    ·  Stay tuned.  ·
+    ✦   У каждой    ✦
+      империи есть
+      своё начало.
+    ·  Следите.  ·
       ✦    ·    ✦
          .  ✦  ·
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=The+Best+is+Yet+to+Come+%F0%9F%8D%8B&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=65" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=%D0%9B%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D0%B5%D1%89%D1%91+%D0%B2%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8+%F0%9F%8D%8B&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=65" alt="Футер"/>
 
 </div>
