@@ -107,10 +107,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-
-<div align="center">
-
-### 📫 &nbsp; Связаться
-
-<a href="https://lemon-corporation.com"><img src="https://img.shields.io/b
-</div>
