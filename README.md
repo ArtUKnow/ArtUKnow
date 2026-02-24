@@ -108,22 +108,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
-## 🏆 &nbsp; Достижения
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArtUKnow&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="Trophies"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
-
 <div align="center">
 
 ### 📫 &nbsp; Связаться
 
-<a href="https://lemon-corporation.com"><img src="https://img.shields.io/badge/Сайт-lemon--corporation.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=%D0%9B%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D0%B5%D1%89%D1%91+%D0%B2%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8+%F0%9F%8D%8B&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=65" alt="Footer"/>
-
+<a href="https://lemon-corporation.com"><img src="https://img.shields.io/b
 </div>
