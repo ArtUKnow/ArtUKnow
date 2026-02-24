@@ -41,18 +41,12 @@
 
 </div>
 
-> *«Настоящий лидер не сидит на троне — он строит его своими руками, строка за строкой, коммит за коммитом.»*
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
 ## 📊 &nbsp; Статистика GitHub
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArtUKnow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&ring_color=FFD700" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=ArtUKnow&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700" alt="Streak Stats"/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtUKnow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -103,11 +97,11 @@
 ```
 🍋 ╔══════════════════════════════════════════════════╗ 🍋
    ║                                                  ║
-   ║         L E M O N   C O R P O R A T I O N       ║
+   ║         L E M O N   C O R P O R A T I O N        ║
    ║                                                  ║
-   ║  «Когда жизнь даёт лимоны — построй империю.»   ║
+   ║  «Когда жизнь даёт лимоны...»                    ║
    ║                                                  ║
-🍋 ╚���═════════════════════════════════════════════════╝ 🍋
+🍋 ╚══════════════════════════════════════════════════╝ 🍋
 ```
 
 </div>
@@ -129,17 +123,6 @@
 ### 📫 &nbsp; Связаться
 
 <a href="https://lemon-corporation.com"><img src="https://img.shields.io/badge/Сайт-lemon--corporation.com-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-
-```
-      ✦  .  ·    ✦
-   ·    🍋    ·
- ✦   У каждой    ✦
-   империи есть
-    своё начало.
- ·   Следите.   ·
-   ✦    ·    ✦
-      .  ✦  ·
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=%D0%9B%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D0%B5%D1%89%D1%91+%D0%B2%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B8+%F0%9F%8D%8B&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=65" alt="Footer"/>
 
