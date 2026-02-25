@@ -4,7 +4,7 @@
 
 [![Неизвестность](https://github.com/ArtUKnow/ArtUKnow/blob/main/content/1.png)](https://lemon-corporation.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%26+CEO+%40+Lemon+Corporation+%F0%9F%8D%8B;%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5+%E2%80%94+%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0+%D0%B7%D0%B0+%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%BE%D0%B9+%F0%9F%9A%80)](https://lemon-corporation.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C+%26+CEO+%40+Lemon+Corporation+%F0%9F%8D%8B;%80)](https://lemon-corporation.com)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%"/>
 
